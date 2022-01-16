@@ -1,0 +1,18 @@
+<body>
+      
+  <div id="hint1"><h3>username: BBasgani</h3></div>     // Örnek üyelik ID: BBasgani
+  <div id="hint2"><h3>password: 12345678</h3></div>     // Örnek üyelik PW : 123456789
+  <div id="center">
+    <div id="form_sheet">
+      <div id="form_title"><h2>Note Book</h2></div>
+      <div id="message_login"></div>
+      <input type="text" name="name" id="name" placeholder="username" />
+      <br>
+      <input type="password" name="password" id="password" placeholder="password" />
+		  <br>
+      <button id="login">Log In</button>
+    
+    </div>
+  </div>  
+            
+</body>
