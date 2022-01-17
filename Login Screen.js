@@ -6,7 +6,7 @@ $(document).ready(function() {
     var password = $("#password").val();
     var login_screencheck = false;
     
-    if (username === "BBaskani" && password === "123456789") {
+    if (username === "BBaskani" && password === "12345678") {
       $("input").hide();
       $("button").hide();
       
